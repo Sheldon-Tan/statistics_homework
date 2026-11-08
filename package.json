@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "dependencies": {
+    "@netlify/blobs": "11.1.8"
+  }
+}
